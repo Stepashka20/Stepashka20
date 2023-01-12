@@ -49,7 +49,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stepashka20&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stepashka20&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stepashka20&theme=github_dark&utcOffset=3)
-[![Stepashka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepashka20&show_icons=true&theme=transparent&border_color=2e343b)](https://github.com/Stepashka20/)
+[![Stepashka's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Stepashka20&show_icons=true&theme=transparent&border_color=2e343b)](https://github.com/Stepashka20/)
 ---
 
 
