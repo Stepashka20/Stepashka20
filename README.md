@@ -10,6 +10,9 @@
     <a href="https://discordapp.com/users/305025255666089986">
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
     </a>
+     <a href="mailto:admin@stepashka20.ru">
+      <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Youtube Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Stepashka20&style=flat-square&color=blue" alt=""/>
   <h1>
