@@ -17,6 +17,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Stepashka20&style=flat-square&color=blue" alt=""/>
+  <a href="https://wakatime.com/@Stepashka20">
+  <img src="https://wakatime.com/badge/user/51e04610-0ff1-46a8-9f4a-8aa06ffc9e61.svg" alt="WakaTime Badge">
+</a>
+
   <h1>
     Hello world
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
