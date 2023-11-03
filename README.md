@@ -50,9 +50,17 @@
 ---
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stepashka20&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stepashka20&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stepashka20&theme=github_dark&utcOffset=3)
-[![Stepashka's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Stepashka20&show_icons=true&theme=transparent&border_color=2e343b)](https://github.com/Stepashka20/)
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stepashka20&theme=github_dark" alt="Profile Details Card">
+
+  <p style="font-size:12px">Coding Activity (by WakaTime)</p>
+  <img src="https://wakatime.com/share/@Stepashka20/66cc15ee-f6c4-4c63-9570-4625e853560f.svg" alt="Wakatime Stats">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stepashka20&theme=github_dark" alt="Repos Per Language Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stepashka20&theme=github_dark&utcOffset=3" alt="Productive Time Card">
+  <a href="https://github.com/Stepashka20/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Stepashka20&show_icons=true&theme=transparent&border_color=2e343b" alt="GitHub Stats Card">
+  </a>
+</div>
 
