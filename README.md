@@ -22,8 +22,7 @@
 </a>
 
   <h1>
-    Hello world
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    FullStack Dev & Application Security Engineer
   </h1>
 </div>
 
@@ -31,11 +30,11 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
 
 
-- 🔭 Currently, I'm studying IT at ITMO University, where I'm learning the latest and greatest technologies.
-- 🌱 In my free time, I enjoy exploring the world of technical content writing.
+- 🔭 Currently, I am studying IT at ITMO University, specializing in cybersecurity
+- 🌱 In my free time, I enjoy web programming and playing Capture the Flag (CTF)
 - ⚡ I'm also a freelance programmer, and I've worked on a variety of projects, from web applications to desktop apps and more. If you need a skilled developer who can turn your ideas into reality, feel free to contact me!
-- 💬 When it comes to IT and programming, I'm always happy to share my knowledge and help others. If you have any questions or want to chat about a particular topic, feel free to reach out to me!
-- 📫 You can contact me by email at  [![MAIL](https://img.shields.io/badge/mail-blue?style=flat&logo=mail&logoColor=white)](mailto:admin@stepashka20.ru). I'm always happy to hear from others in the community and to collaborate on new projects.
+- 💬 When it comes to IT/programming/Application Security, I'm always happy to share my knowledge and help others. If you have any questions or want to chat about a particular topic, feel free to reach out to me!
+- 📫 You can contact me by [![MAIL](https://img.shields.io/badge/mail-blue?style=flat&logo=mail&logoColor=white)](mailto:admin@stepashka20.ru) or [![TG](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/stepashka20) I'm always happy to hear from others in the community and to collaborate on new projects.
 
 ---
 
