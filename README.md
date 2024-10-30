@@ -3,6 +3,9 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="100"/> -->
   <div id="badges">
+    <a href="https://www.linkedin.com/in/stepan-davydov/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://vk.com/id212653548">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
     </a>
